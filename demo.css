@@ -1,0 +1,20 @@
+*{
+  margin:0;
+  padding:0;
+}
+.wrapper{
+  width:260px;
+  height:600px;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+}
+#area{
+  position: absolute;
+  bottom: 0;
+}
+#area tr td{
+  width:25px;
+  height:25px;
+  border: 1px solid #ccc;
+}
